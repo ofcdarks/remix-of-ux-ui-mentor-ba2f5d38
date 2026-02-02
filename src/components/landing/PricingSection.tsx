@@ -97,21 +97,21 @@ const PricingSection = () => {
               <div className="inline-block px-4 py-2 rounded-full bg-destructive/10 mb-4">
                 <p className="text-destructive font-semibold">
                   <span className="line-through text-lg">De R$ 497,00</span>
-                  <span className="ml-2 text-sm">(-91% OFF)</span>
+                  <span className="ml-2 text-sm">(-60% OFF)</span>
                 </p>
               </div>
               
               <div className="flex items-baseline justify-center gap-2 mb-4">
-                <span className="text-2xl font-medium text-muted-foreground">11x de</span>
+                <span className="text-2xl font-medium text-muted-foreground">12x de</span>
               </div>
               <div className="flex items-baseline justify-center gap-1">
                 <span className="text-3xl font-display font-bold text-foreground">R$</span>
-                <span className="text-8xl md:text-9xl font-display font-bold text-gradient-shine">5</span>
-                <span className="text-4xl font-display font-bold text-gradient-gold">,22</span>
+                <span className="text-8xl md:text-9xl font-display font-bold text-gradient-shine">19</span>
+                <span className="text-4xl font-display font-bold text-gradient-gold">,66</span>
               </div>
               
               <p className="text-xl text-muted-foreground mt-4">
-                ou <strong className="text-foreground text-2xl">R$ 47,00</strong> à vista
+                ou <strong className="text-foreground text-2xl">R$ 197,00</strong> à vista
               </p>
               <p className="text-sm text-muted-foreground mt-2">
                 Pagamento único sem cobrança mensal
@@ -120,7 +120,7 @@ const PricingSection = () => {
               {/* Savings highlight */}
               <div className="inline-flex items-center gap-3 mt-6 px-6 py-3 rounded-full bg-sage border border-gold/20">
                 <span className="text-2xl">🔥</span>
-                <span className="text-foreground font-bold">Economia de R$ 450,00</span>
+                <span className="text-foreground font-bold">Economia de R$ 300,00</span>
               </div>
             </div>
 

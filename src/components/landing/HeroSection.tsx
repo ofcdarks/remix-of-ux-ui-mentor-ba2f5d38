@@ -96,7 +96,7 @@ const HeroSection = () => {
             className="group pulse-glow text-base sm:text-lg px-6 sm:px-10 py-5 sm:py-6 whitespace-normal h-auto max-w-full"
             onClick={() => window.open("https://pay.kiwify.com.br/CdpFbFD", "_blank")}
           >
-            <span className="text-center leading-tight">APENAS R$47 PARA VIVER ESTA ESTAÇÃO</span>
+            <span className="text-center leading-tight">APENAS R$197 PARA VIVER ESTA ESTAÇÃO</span>
             <svg
               className="w-5 h-5 sm:w-6 sm:h-6 ml-2 sm:ml-3 transition-transform duration-700 group-hover:translate-x-3 flex-shrink-0"
               fill="none"
