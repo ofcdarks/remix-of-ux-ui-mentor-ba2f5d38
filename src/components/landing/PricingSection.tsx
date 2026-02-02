@@ -106,8 +106,8 @@ const PricingSection = () => {
               </div>
               <div className="flex items-baseline justify-center gap-1">
                 <span className="text-3xl font-display font-bold text-foreground">R$</span>
-                <span className="text-8xl md:text-9xl font-display font-bold text-gradient-shine">19</span>
-                <span className="text-4xl font-display font-bold text-gradient-gold">,66</span>
+                <span className="text-8xl md:text-9xl font-display font-bold text-gradient-shine">20</span>
+                <span className="text-4xl font-display font-bold text-gradient-gold">,37</span>
               </div>
               
               <p className="text-xl text-muted-foreground mt-4">
