@@ -59,10 +59,10 @@ const StickyHeader = () => {
           <div className="flex items-center gap-3 lg:gap-5">
             <div className="hidden md:flex items-center gap-3">
               <span className="px-3 py-1.5 rounded-full bg-gold text-off-white text-sm font-bold flex-shrink-0">
-                -91% OFF
+                -60% OFF
               </span>
               <span className="text-base text-off-white whitespace-nowrap">
-                De <span className="line-through text-off-white/60">R$497</span> por <span className="text-off-white font-bold text-xl">R$47,00</span>
+                De <span className="line-through text-off-white/60">R$497</span> por <span className="text-off-white font-bold text-xl">R$197,00</span>
               </span>
             </div>
 
